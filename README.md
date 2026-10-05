@@ -150,6 +150,7 @@ Worked as a full-stack intern on enterprise code-management and cross-language s
 ## 📫 Contact
 
 * GitHub: [@muyiyang09](https://github.com/muyiyang09)
+* Email: muyiyang181@gmail.com
 
 Open to opportunities in:
 
