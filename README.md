@@ -129,9 +129,7 @@ Worked as a full-stack intern on enterprise code-management and cross-language s
 
 ---
 
-## 🎓 Education & Honors
-
-**吉林农业科技学院** — 软件工程（本科，2024 - 2028）
+## 🏆 Honors
 
 * 2025 年中国大学生数学建模竞赛 吉林省一等奖
 
