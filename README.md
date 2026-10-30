@@ -116,7 +116,7 @@ Langfuse 我**默认关闭**，并且做了 **fail-open** —— 可观测性组
 ## 📫 联系我
 
 - GitHub：[@muyiyang09](https://github.com/muyiyang09)
-- Email：muyiyang181@qq.com ｜ muyiyang181@gmail.com
+- Email：19973961820@163.com
 
 目前开放 **AI Agent / AI 应用开发方向的实习机会**：每周可到岗 5 天，可连续实习 6 个月以上，**2026 年 12 月中旬可开始**，可远程、可异地。
 
